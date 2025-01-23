@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { HeadComponent } from "../head/head.component";
 
+
 @Component({
     selector: 'app-home',
     standalone: true,
